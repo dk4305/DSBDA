@@ -1,0 +1,9 @@
+1. Single node (Multiple no de hadoop installation)
+2. Design a distributed application using MapReduce (using Java)
+3. Write an application using Hive QL for fight info sys
+4. Perform ops using Python on the Facebook metrics data sets
+5. Perform ops using Python on the air quality & heart disease data sets
+6. Integrate Python & Hadoop & perform the following operations on forest datasets
+7. Visualize data using Python libraries matplotlib, sea from by plotting the graphs for assignment 2&3
+8. Perform the following data visualization ops using Tableau on the adult n iris dataset
+9. Develop a mini project in a group using different predictive model techniques to solve any real-life problem
